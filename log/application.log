@@ -1,0 +1,13 @@
+INFO     [2020-01-03 20:00:09,067] Mouse controller init
+INFO     [2020-01-03 20:00:09,071] Keyboard controller init
+INFO     [2020-01-03 20:00:09,071] Play init
+INFO     [2020-01-03 20:00:09,071] Mouse listener init
+INFO     [2020-01-03 20:00:09,071] Keyboard listener init
+INFO     [2020-01-03 20:00:09,072] Record init
+INFO     [2020-01-03 20:00:09,072] Controller init
+DEBUG    [2020-01-03 20:00:09,072] Controller start
+DEBUG    [2020-01-03 20:00:09,072] Create button Play
+DEBUG    [2020-01-03 20:00:09,086] Do play start
+DEBUG    [2020-01-03 20:00:09,086] Create button Record
+DEBUG    [2020-01-03 20:00:09,087] Do record start
+DEBUG    [2020-01-03 20:00:12,290] Controller stop
